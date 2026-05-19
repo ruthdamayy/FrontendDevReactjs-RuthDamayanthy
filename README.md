@@ -67,6 +67,4 @@ Project bisa dideploy ke Netlify dengan pengaturan:
 ## Repository dan Live Project
 
 - GitHub repository: `https://github.com/ruthdamayy/FrontendDevReactjs-RuthDamayanthy`
-- Live project Netlify: `https://nama-project.netlify.app`
-
-Catatan: ganti `username` dan URL Netlify sesuai repository dan hasil deploy yang digunakan.
+- Live project Netlify: `https://frontenddevreactjs-ruthdamayanthy.netlify.app/`
