@@ -56,3 +56,4 @@ npm run preview
 
 - GitHub repository: `https://github.com/ruthdamayy/FrontendDevReactjs-RuthDamayanthy`
 - Live project Netlify: `https://frontenddevreactjs-ruthdamayanthy.netlify.app/`
+- Live project Vercel: `https://frontenddevreactjs-ruthdamayanthy.vercel.app/`
