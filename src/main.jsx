@@ -4,8 +4,8 @@ import { ArrowLeft, Eye, EyeOff, LogOut, MapPin, Search, Star } from "lucide-rea
 import "./styles.css";
 
 const credentials = {
-  email: "intern@sekawan.dev",
-  password: "frontend123",
+  email: "ruthdamayy@dummy.project",
+  password: "developer123",
 };
 
 const restaurants = [
@@ -262,7 +262,7 @@ function Login({ onSuccess }) {
   return (
     <main className="login-shell">
       <form className="login-panel" onSubmit={handleSubmit}>
-        <p className="eyebrow">Frontend Test</p>
+        <p className="eyebrow">DUMMY PROJECT</p>
         <h1>Restaurants</h1>
         <label>
           Email
